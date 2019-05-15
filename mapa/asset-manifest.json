@@ -1,20 +1,5 @@
 {
   "files": {
-<<<<<<< HEAD
-    "main.css": "./static/css/main.d3ca2df1.chunk.css",
-    "main.js": "./static/js/main.e366d0b4.chunk.js",
-    "main.js.map": "./static/js/main.e366d0b4.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
-    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
-    "static/css/2.6a3d0ad7.chunk.css": "./static/css/2.6a3d0ad7.chunk.css",
-    "static/js/2.9a2be74f.chunk.js": "./static/js/2.9a2be74f.chunk.js",
-    "static/js/2.9a2be74f.chunk.js.map": "./static/js/2.9a2be74f.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.04ad46a1388d0d27e39aefa85e4935cb.js": "./precache-manifest.04ad46a1388d0d27e39aefa85e4935cb.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.6a3d0ad7.chunk.css.map": "./static/css/2.6a3d0ad7.chunk.css.map",
-    "static/css/main.d3ca2df1.chunk.css.map": "./static/css/main.d3ca2df1.chunk.css.map"
-=======
     "main.css": "./static/css/main.1fe7272b.chunk.css",
     "main.js": "./static/js/main.157aa9a3.chunk.js",
     "main.js.map": "./static/js/main.157aa9a3.chunk.js.map",
@@ -28,6 +13,5 @@
     "service-worker.js": "./service-worker.js",
     "static/css/2.6a3d0ad7.chunk.css.map": "./static/css/2.6a3d0ad7.chunk.css.map",
     "static/css/main.1fe7272b.chunk.css.map": "./static/css/main.1fe7272b.chunk.css.map"
->>>>>>> Mapa 1.0.26 beta
   }
 }
